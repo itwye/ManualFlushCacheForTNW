@@ -33,9 +33,9 @@ cdn_url_purge = "https://openapi.txnetworks.cn/purge/rest/doPurge?"
 #CDN API INTERFACE FOR CHECK STATUS
 cdn_url_checkstatus = "https://openapi.txnetworks.cn/purge/rest/status?"
 #CDN API USERNAME
-username="cakuba@gmail.com"
+username="****@gmail.com"
 #CDN API PASSWORD
-passwd="hgsk903"
+passwd="****"
 
 #HDFS网关
 HdfsIntGateway = "10.1.0.8,10.1.0.10"
